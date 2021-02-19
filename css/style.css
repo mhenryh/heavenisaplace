@@ -13,24 +13,35 @@ body{
     padding-left:10px;
     padding-right:10px;
     padding-bottom:10px;
-    box-shadow: #2a2a2a 0px 4px 2px;
+    box-shadow:  #779e81 0px 4px 2px;
 }
-a{
+.nava{
     background-color: #779e81;
     font-family: 'Cutive Mono', monospace;
     color:white;
     text-decoration: none;
     padding:10px;
 }
-a :hover{
+.nava :hover{
     color:#2a2a2a;
-    box-shadow: #2a2a2a;
+    box-shadow: #2a2a2a 0px 2px 1px;
 }
 #title{
     font-family: 'Cutive Mono', monospace;
     font-size:40px;
     color:white;
     text-align:right;
+}
+h2{
+    color:white;
+    font-family: 'Cutive Mono', monospace;
+}
+p{
+    color:white;
+    font-family: 'Raleway', sans-serif;
+}
+#home{
+    padding:20px;
 }
 /* font-family: 'Cutive Mono', monospace;
 
